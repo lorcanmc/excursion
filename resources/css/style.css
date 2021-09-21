@@ -1,3 +1,28 @@
-h1 {
-    color: green;
+html {
+    background-color: black;
+    text-align: center;
 }
+
+h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+h2 {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+h3 {
+    font-family: Verdana;
+    font-size: 16px;
+    color: aquamarine;
+}
+
+.copyright {
+    text-align: right;
+}
+
